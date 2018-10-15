@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<my_books>
+
+    <book id="1">
+
+        <title>Why Buddhism is True</title>
+
+        <authors>Robert Wright</authors>
+
+        <pages>336</pages>
+
+        <isbn>9781508235408</isbn>
+
+        <goodreads_rating>4.04</goodreads_rating>
+
+    </book>
+
+    <book id="2">
+
+        <title>Sapiens</title>
+
+        <authors>Yuval Noah Harari</authors>
+
+        <pages>443</pages>
+
+        <isbn>9780525512172</isbn>
+
+        <goodreads_rating>4.45</goodreads_rating>
+
+    </book>
+
+    <book id="3">
+
+	<title>Automated Data Collection with R</title>
+        <authors>Simon Munzert, Christian Rubba</authors>
+
+        <pages>480</pages>
+
+        <isbn>9781118834817</isbn>
+
+        <goodreads_rating>4.11</goodreads_rating>
+    </book>
+
+</my_books>

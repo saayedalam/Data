@@ -1,0 +1,30 @@
+{
+  "my_books": {
+    "book": [
+      {
+        "-id": "1",
+        "title": "Why Buddhism is True",
+        "authors": "Robert Wright",
+        "pages": "336",
+        "isbn": "9781508235408",
+        "goodreads_rating": "4.04"
+      },
+      {
+        "-id": "2",
+        "title": "Sapiens",
+        "authors": "Yuval Noah Harari",
+        "pages": "443",
+        "isbn": "9780525512172",
+        "goodreads_rating": "4.45"
+      },
+      {
+        "-id": "3",
+        "title": "Automated Data Collection with R",
+        "authors": "Simon Munzert, Christian Rubba",
+        "pages": "480",
+        "isbn": "9781118834817",
+        "goodreads_rating": "4.11"
+      }
+    ]
+  }
+}
